@@ -1,0 +1,25 @@
+body {
+    /*Alinhar texto como centro*/
+    /*Escolher uma cor de fundo*/
+    font-family: Arial;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    /*Alterar o display para flex*/
+    /*Alinhar esse display ao centro*/
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+    width: 300px;
+}
+
+img {
+    /*Arrumar a largura das imagens*/
+}
